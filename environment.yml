@@ -1,0 +1,11 @@
+name: MachineLearning
+channels:
+  - conda-forge
+dependencies:
+  - python== 3.8
+  - pandas
+  - pytest
+  - isort
+  - pre-commit
+  - flake8
+  - pip
